@@ -1,19 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: "Gene flow - page about admixture"
 excerpt: "About me"
 author_profile: true
 redirect_from:
-  - "/wordpress/"
-  - "/wordpress/index.html"
+  - /about/
+  - /about.html
 ---
 
-{% include base_path %}
+Hi, I am Kamil, some people call me Slim (means slug). In September 2015 I joined labs of [Marc Robinson-Rechavi](http://www.unil.ch/dee/home/menuinst/research/robinson-rechavi-group.html) and [Tanja Schwander](http://www.unil.ch/dee/home/menuinst/research/schwander-group.html) at University of Lausanne as a PhD student. The vast majority of my research is about system with extraordinary admixture: hybrid zones with reduced gene flow, amphioxus genome with huge heterozygosity or effect of asexuality to genome structure - i.e. absence of admixture (see [Projects](https://kamilsjaron.github.io/projects/) for more).
 
-Hello,  I am currently doing my PhD. in evolutionary biology under the supervision of Ovidiu Paun. Our group is, among other things, interested in the effect of polyploidisation on plant adaptability.
-
-http://plantgenomics.univie.ac.at/research/
-
-My present species of interest are part of the alpine Dactylorhiza genus, also known as marsh orchids. Using RNA-seq, I plan to find divergences in expression levels between polyploid and diploid species of these beautiful flowering plants. I also aim to integrate ecological and epigenetic data into my study to see how these contribute to the differentiation between these species.
-
-The goal of this blog is to keep you updated on the progress of my work and findings. I hope you will enjoy, I surely will.
+I like open-source and open-science, statistics, genome assembly, well-written documentation, stick insects, README files, non-anonymous reviewers and declared conflicts of interests.
