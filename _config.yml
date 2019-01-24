@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gene Flow"
+title                    : "WolfEvolution"
 title_separator          : "-"
-name                     : &name "Kamil S. Jaron"
-description              : &description "PhD candidate at University of Lausanne"
-url                      : https://kamilsjaron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Thomas M. Wolfe"
+description              : &description "PhD candidate at University of Vienna"
+url                      : https://twolfe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kamilsjaron.github.io"
+repository               : "twolfe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "kamilsjaron-github-io"
+    shortname            : "thomas-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kamil S. Jaron"
-  avatar           : "profile.png"
-  bio              : "a bit geeky bluntly communicating PhD student interested in evolution of asexual genomes, admixture and genomic variability."
-  location         : "University of Lausanne"
+  name             : "Thomas M. Wolfe"
+  avatar           : "profile.jpeg"
+  bio              : "Constantly Changing "
+  location         : "University of Vienna"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=I_Kn3nAAAAAJ"
-  email            : "kamiljaron@gmail.com"
+  email            : "thomas.m.wolfe@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KamilSJaron"
+  github           : "twolfe"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           : # "https://www.last.fm/user/Kum0r"
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-1470-5450"
+  orcid            : #"https://orcid.org/0000-0003-1470-5450"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/2962344/slim
   steam            :
   tumblr           :
-  twitter          : "KamilSJaron"
+  twitter          : "MupdnW"
   vine             :
   weibo            :
   xing             :
