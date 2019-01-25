@@ -3,7 +3,7 @@ title: "Adaptive sequence evolution is driven by biotic stress in a pair of orch
 category: articles
 permalink: /articles/2018-11-11-best-practices-team-challenges
 excerpt: "What are the challenges and best practices for doing data-intensive research in teams, labs, and other groups? This paper reports from a discussion in which researchers from many different disciplines and departments shared their experiences on doing data science in their domains."
-date: 30 -03-2017
+date: 30-03-2017
 citation: "Francisco Balao  Emiliano Trucchi  Thomas M. Wolfe  Bao‐Hai Hao  Maria Teresa Lorenzo  Juliane Baar Laura Sedman  Carolin Kosiol  Fabian Amman  Mark W. Chase  Mikael Hedrén  Ovidiu Paun. 'Adaptive sequence evolution is driven by biotic stress in a pair of orchid species (*Dactylorhiza*) with distinct ecological optima.' Molecular Ecology 2017. <a href='https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.14123'>https://doi.org/10.1111/mec.14123 </a>"
 ---
 
