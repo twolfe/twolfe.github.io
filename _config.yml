@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Thomas M. Wolfe"
   avatar           : "profile.jpg"
-  bio              : ""
+  bio              : "Evolution all the way"
   location         : "Vienna"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=gEFelJQAAAAJ&hl=en"
+  email            : thomas.m.wolfe@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "staeiou"
+  github           : "twolfe"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : #"http://orcid.org/0000-0001-7215-0532"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -109,7 +109,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "staeiou"
+  wikipedia        :
 
 
 # Reading Files
