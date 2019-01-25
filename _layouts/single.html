@@ -8,7 +8,7 @@ layout: default
     {
 	"@context": "http://schema.org/",
 	"@type": "CreativeWork",
-	"author": "R. Stuart Geiger",
+	"author": "Thomas Wolfe",
         "name": "{{ page.title }}",
 	"datePublished": "{{ page.date }}",
 	"description": "{{ page.excerpt }}"
@@ -32,7 +32,7 @@ layout: default
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
-    
+
 
 
     <div class="page__inner-wrap">
