@@ -4,13 +4,12 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things like "stuart geiger email" and get wrong pages on my site.  Here are some other places on the Internet where I reside.
+Contact information is below, including emails, and other places where I live online.
 
-* E-mail: stuart [at] stuartgeiger.com
-* Twitter: [staeiou](http://twitter.com/Staeiou)
+* E-mail: thomas.m.wolfe [at] gmail.com
+* Twitter: [t_wolfe](https://twitter.com/MupdnW)
 * Academia.edu: [RStuartGeiger](http://georgetown.academia.edu/RStuartGeiger)
-* Flickr: [staeiou](http://www.flickr.com/photos/Staeiou)
-* Google Scholar: [author:geiger-r-stuart](http://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en)
-* LinkedIn: [rstuartgeiger](http://www.linkedin.com/in/rstuartgeiger)
-* Wikipedia: [staeiou](http://en.wikipedia.org/wiki/User:Staeiou)
-* UC-Berkeley: [Berkeley Institute for Data Science](https://bids.berkeley.edu/people/r-stuart-geiger), [School of Information](http://www.ischool.berkeley.edu/people/students/rstuartgeiger)
+* Google Scholar: [author:thomas m wolfe](https://scholar.google.com/citations?user=gEFelJQAAAAJ&hl=en)
+* LinkedIn: [thomas-wolfe](https://www.linkedin.com/in/thomas-wolfe-b4b829179/)
+* University of Vienna: [Research Group Plant Ecological Genomics](https://plantgenomics.univie.ac.at/)
+* Vetmeduni Vienna: [Vienna Graduate School of Population Genetics](https://www.popgen-vienna.at/people/students/)
