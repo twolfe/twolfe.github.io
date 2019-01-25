@@ -9,18 +9,18 @@
 locale                   : "en-US"
 title                    : "WolfEvolution"
 title_separator          : "-"
-name                     : &name "Thomas M. Wolfe"
-description              : &description "PhD candidate at University of Vienna"
+name                     : &name "Thomas Wolfe"
+description              : &description "computational ethnographer<br/>ethnographer of computation"
 url                      : https://twolfe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "twolfe.github.io"
+repository               : "twolfe/twolfe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "thomas-github-io"
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -45,45 +45,46 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+read_more                : "enabled" # if enabled, adds a "read more" link to excerpts
+future                   : true
 
 # SEO Related
-google_site_verification :
+google_site_verification : "3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "MupdnW"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-79273-2"
+
 
 
 # Site Author
 author:
   name             : "Thomas M. Wolfe"
   avatar           : "profile.jpg"
-  bio              : "Constantly Changing "
-  location         : "University of Vienna"
+  bio              : ""
+  location         : "Vienna"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=I_Kn3nAAAAAJ"
-  email            : "thomas.m.wolfe@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -91,31 +92,34 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "twolfe"
+  github           : "staeiou"
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           : # "https://www.last.fm/user/Kum0r"
+  lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/0000-0003-1470-5450"
+  orcid            : "http://orcid.org/0000-0001-7215-0532"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/2962344/slim
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MupdnW"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "staeiou"
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
-  - files
+  - "*.pdf"
+  - "papers/*.pdf"
+  - "portfolio/papers/*.pdf"
+  - "portfolio/*.pdf"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -150,7 +154,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "<!-- more -->"
+excerpt_separator: "\n\n"
 incremental: false
 
 
@@ -171,10 +175,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  articles:
     output: true
     permalink: /:collection/:path/
-  projects:
+  expressions:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -208,22 +212,23 @@ defaults:
       type: teaching
     values:
       layout: single
+      read_time: false
       author_profile: true
-      share: true
-      comments: true
-  # _publications
+      share: false
+      comments: false
+  # _articles
   - scope:
       path: ""
-      type: publications
+      type: articles
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _expressions
   - scope:
       path: ""
-      type: projects
+      type: expressions
     values:
       layout: single
       author_profile: true
@@ -248,15 +253,16 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Zurich # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
