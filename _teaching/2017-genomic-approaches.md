@@ -4,7 +4,7 @@ collection: teaching
 teaching_type: "Genomic approaches"
 permalink: /teaching/genomic-approaches
 institution: "University of Vienna"
-date: 2017
+date: 2017-01-05
 excerpt: "Course given at [University of Vienna](https://ufind.univie.ac.at/de/course.html?lv=300369&semester=2017S)."
 ---
 [Course link](https://ufind.univie.ac.at/de/course.html?lv=300369&semester=2017S)

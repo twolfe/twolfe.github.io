@@ -13,36 +13,14 @@ categories:
   - Academic Works
   - Unpublished
 tags:
-  - capitalism
   - communication
-  - communism
-  - communist manifesto
-  - community
-  - conference
-  - construction
-  - copyright
-  - corporate adoption
-  - discourse
-  - free software
-  - globalization
-  - html
-  - information
-  - intellectual property
-  - internet
-  - law
-  - Linux
-  - Marx
   - open source
-  - open source software
-  - philosophy
-  - technology
-  - Weber
 ---
 try
 
 Download [paper](http://www.stuartgeiger.com/portfolio/papers/osscommunism.pdf) (PDF 34.0 KB) or read below:
 
-With the fall of the Berlin Wall, capitalists around the world heaved a collective sigh. After more than a century, it seemed like the specter of Communism had finally been chased out of the West, paving the way for a new era of globalization. Political Economist Francis Fukuyama famously stated that humanity had reached &#8220;the end of history&#8221; after 
+With the fall of the Berlin Wall, capitalists around the world heaved a collective sigh. After more than a century, it seemed like the specter of Communism had finally been chased out of the West, paving the way for a new era of globalization. Political Economist Francis Fukuyama famously stated that humanity had reached &#8220;the end of history&#8221; after
 
 <hr size="1" />
 
