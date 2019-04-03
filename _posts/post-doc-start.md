@@ -14,5 +14,3 @@ Hello,
 I am happy to inform you that I'm starting a new research project with [Hannes Shuler](https://sites.google.com/view/hschuler/home). The main goal of our project aims to resolve the evolutionary interplay between *Wolbachia* and *Rhagoletis cingulata* in Europe and gain insights into the nature and roles
 of horizontal *Wolbachia* transfers for invasive potential.
 Exited to start a keep you updated.
-
-<!--more-->
