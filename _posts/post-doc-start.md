@@ -3,13 +3,7 @@ title: 'Starting a new Post-Doc'
 date: 2019-04
 author: thomas
 excerpt: Working of Rhagoletis and Wolbachia
-<<<<<<< HEAD
-
-permalink: /year-archive/post-doc-start/
-
-=======
 permalink: /posts/2019/04/post-doc-start/
->>>>>>> gh-pages
 categories:
   - Academic
 tags:
