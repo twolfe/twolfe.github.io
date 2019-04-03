@@ -1,15 +1,13 @@
 ---
-id: 15
 title: 'Starting a new Post-Doc'
 date: 2019-04
 author: thomas
 excerpt: Working of Rhagoletis and Wolbachia
 
-permalink: /posts/post-doc-start/
+permalink: /year-archive/post-doc-start/
 
 categories:
   - Academic
-  #- Unpublished
 tags:
   - post-doc
   - rhagoletis
