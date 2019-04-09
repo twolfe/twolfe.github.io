@@ -1,37 +1,15 @@
 ---
-id: 19
-title: 'Review: 10 Books That Screwed Up the World by Benjamin Wiker'
-date: 2008-05-12T22:34:21+00:00
-author: stuart
-excerpt: "Benjamin Wiker's book on bad books throughout the ages is misinformed and makes a few critical errors in its analysis.  Specifically, it ignores the cultural context around each book he critiques, treating them as pure subliminal propaganda.  "
-
-permalink: /posts/2008/05/review-10-books-that-screwed-up-the-world-by-benjamin-wiker/
-redirect_from:
-  - /wordpress/2008/05/review-10-books-that-screwed-up-the-world-by-benjamin-wiker/
-  - /wordpress/?p=19
-categories:
-  - Reviews and Responses
+title: 'Polaris project - Diversity panel of 150 high-coverage samples'
+date: 2018-11-11
+permalink: /posts/2018/11/Polaris-project-diversity-panel/
 tags:
-  - anti semitism
-  - Benjamin Wiker
-  - capitalism
-  - communism
-  - communist manifesto
-  - context
-  - darwinism
-  - discourse
-  - God
-  - Hitler
-  - machiavelli
-  - Marx
-  - marx and engels
-  - Nietzsche
-  - philosophy
-  - play
-  - power
-  - propaganda
-  - text
+  - Polaris project
+  - Diversity panel
+  - high-coverage data
+  - Illumina
+  - PCR-Free
 ---
+
 1_0 Books That Screwed Up the World: And 5 Others That Didn&#8217;t Help_ by Benjamin Wiker
 
 I recently picked this up while browsing the philosophy section of a local bookstore. On a side note, I love to look at what different bookstores call &#8220;Philosophy,&#8221; as they often differ greatly. Anyways, the title intrigued me and I picked it up and started reading, as I had a good bit of time to waste. I had a good idea of what the ten books would be (some Marx, Hitler, Nietzsche, among others). I&#8217;ll save you all the trouble and post the list here, with descriptions from the publisher:
