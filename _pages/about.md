@@ -10,20 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-Phenotypic variation, upon which natural selection acts, is central to the adaptive potential of
-species to diverse environments. Classically, variation was considered to accumulate slowly
-through sources such as mutations and reshuffling of standing variation by recombination and
-migration. This "unreserved" view was already noticed by Thomas H. Huxley in a famous 1859
-letter to Charles Darwin while reading the manuscript of On the Origin of Species for the first
-time.
+Phenotypic variation, upon which natural selection acts, is central to the adaptive potential of species to diverse environments. Classically, variation was considered to accumulate slowly through sources such as mutations and reshuffling of standing variation by recombination and migration. This "unreserved" view was already noticed by Thomas H. Huxley in a famous 1859 letter to Charles Darwin while reading the manuscript of On the Origin of Species for the first time.
 
 > The only objections that have occurred to me are 1st, That you have loaded yourself with an unnecessary difficulty in adopting Natura non facit saltum so unreservedly; and 2nd, It is not clear to me why, if continual physical conditions are of so little moment as you suppose, variation should occur at all. However, I must read the book two or three times more before I presume to begin picking holes.
 Thomas. H. Huxley 23 November 1859
 
-The major theoretical work of Ronald. A. Fisher cemented the gradualist idea from the 1930s’
-onwards. Sudden, saltational and substantial scale changes in phenotypes due to alterations in
-homeotic genes or modifications in genome organization, such as hybridization or polyploidy
-(whole-genome doubling) were deemed maladaptive and detrimental.
+The major theoretical work of Ronald. A. Fisher cemented the gradualist idea from the 1930s' onwards. Sudden, saltational and substantial scale changes in phenotypes due to alterations in homeotic genes or modifications in genome organization, such as hybridization or polyploidy (whole-genome doubling) were deemed maladaptive and detrimental.
+
 Hello,
 
 My work focuses of the  
