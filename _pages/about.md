@@ -21,4 +21,4 @@ Thomas. H. Huxley 23 November 1859
 
 In this context, sudden, saltational and large scale changes in phenotypes due to alterations in homeotic genes or modifications in genome organization, such as hybridization or polyploidy (whole-genome doubling) were deemed maladaptive and detrimental.
 
-My work focuses on evolutionary processes which generate or maintain genetic variation and their impact on biodiversity.
+My work focuses on recurrent evolutionary processes which generate or maintain genetic variation and their impact on biodiversity.
