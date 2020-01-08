@@ -1,6 +1,6 @@
 ---
 title: "Polyploid evolution"
-excerpt: "Is current polyploidy a source of biodiversity increase?"
+excerpt: "Is recurrent polyploidy a source of biodiversity increase?"
 collection: research
 ---
 ### Work done under the supervision of [Ovidiu Paun](https://plantgenomics.univie.ac.at/about-us/group-members/ovidiu-paun/) at the [University of Vienna](http://plantgenomics.univie.ac.at/research/)
