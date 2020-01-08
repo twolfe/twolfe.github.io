@@ -13,5 +13,10 @@ var addressPoints = [
     "Rovinj, Croatia | International Conference on Polyploidy, Hybridization and Biodiversity | <a href='http://twolfe.github.io//talks/2016-05-11-icp'>Polyploidy Conference</a>",
     45.081166,
     13.638707
+  ],
+  [
+    "Vienna, Austria | 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland | <a href='http://twolfe.github.io//talks/2018-10-09-ecologicalSoc'>Ecology Conference</a>",
+    48.231554,
+    16.357586
   ]
 ];

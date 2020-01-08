@@ -1,0 +1,13 @@
+---
+title: "Macro and microevolutionary drivers of allopolyploid evolution in Dactylorhiza."
+collection: talks
+type: "Talk"
+permalink: /talks/2018-10-09-ecologicalSoc
+venue: "48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland"
+date: 2018-10-09
+location: "Vienna, Austria"
+excerpt: "The impact of alloploidy on gene expression in Dactylorhiza."
+---
+[See more info here](https://www.lter-europe.net/events/gfoe-2018)
+
+Abstract: Recurrent, polytopic origins are widespread among polyploids. These can produce a multitude of genetically, ecologically, morphologically and physiologically distinct populations. Subsequent gene flow, independent assortment, and recombination may produce additional variation that will be sorted by natural selection as a function of local conditions. Our understanding of the ecological relevance of such early processes in young polyploids is still in its infancy. As multiple origins provide natural replicates, sibling allopolyploids are excellent models to uncover mechanisms of adaptation to divergent environments, which are assumed to lead to evolutionary diversification and biodiversity increase. Our study focuses on two sibling polyploids, Dactylorhiza majalis and D. traunsteineri formed through the unidirectional hybridization between diploids D. fuchsii (always the maternal parent) and D. incarnata. Using RAD-seq, RNA-seq and multidimensional ecological investigations we characterize the patterns of genomic diversity in these polyploids and specifically investigate the molecular basis of phenotypic divergence between them. We demonstrate that the allopolyploids have distinct measurable ecological preferences, despite hybridization in sympatry suggesting resilience of specific traits. In turn, the ecological differences are driving differential expression of a number of functionally important genes with functions related to both abiotic and biotic responses. Furthermore, our data allows us to address the molecular mechanisms responsible for the observed gene expression divergence. We observe significant constraints on homoeolog expression in the two polyploids but in turn, alternative dominance patterns differentially affecting gene expression between them. This indicates that divergent trans, rather than local cis effects are broadly driving the phenotypic distinctiveness in these sibling polyploids. Our results add to our growing comprehension of the broader consequences of allopolyploidy, particularly in the context of ecological speciation and to our understanding of this central force behind plant evolution.
