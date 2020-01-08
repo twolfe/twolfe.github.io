@@ -1,6 +1,6 @@
 ---
 title: "Polyploids"
-#category: research
+category: articles
 permalink: /research/08-01-2020-polyploidy
 excerpt: "Study of diversity and functional differentiation in two diploid Orchids."
 date: 08-01-2020
