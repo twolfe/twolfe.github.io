@@ -22,8 +22,6 @@ My work focuses on evolutionary processes which generate or maintain genetic var
 
 # Polyploidy in *Dactylorhiza* orchids
 I am currently doing my PhD. in evolutionary biology under the supervision of Ovidiu Paun. Our group is, among other things, interested in the effect of polyploidisation on plant adaptability.
-Inline-style:
-![alt text](/home/thomas/Documents/twolfe.github.io/images/dacty_fig.png "Logo Title Text 1")
 
 
 [University of Vienna](http://plantgenomics.univie.ac.at/research/)
