@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "WolfEvolution"
 title_separator          : "-"
 name                     : &name "Thomas Wolfe"
-description              : &description "evolutionary biologist"
+description              : &description "evolutionary biology"
 url                      : https://twolfe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "twolfe/twolfe.github.io"
@@ -230,15 +230,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
-    # _research
-    - scope:
-        path: ""
-        type: research
-      values:
-        layout: single
-        author_profile: true
-        share: true
 
 # Sass/SCSS
 sass:
