@@ -10,7 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Hello,  I am currently doing my PhD. in evolutionary biology under the supervision of Ovidiu Paun. Our group is, among other things, interested in the effect of polyploidisation on plant adaptability.
+Hello,
+My work focuses of the  
+I am currently doing my PhD. in evolutionary biology under the supervision of Ovidiu Paun. Our group is, among other things, interested in the effect of polyploidisation on plant adaptability.
 
 [University of Vienna](http://plantgenomics.univie.ac.at/research/)
 
