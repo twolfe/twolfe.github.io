@@ -15,7 +15,7 @@ var addressPoints = [
     13.638707
   ],
   [
-    "Vienna, Austria | 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland | <a href='http://twolfe.github.io//talks/2018-10-09-ecologicalSoc'>Ecology Conference</a>",
+    "Vienna, Austria | 48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland | <a href='http://twolfe.github.io//talks/2018-09-10-ecologicalSoc'>Ecology Conference</a>",
     48.231554,
     16.357586
   ]

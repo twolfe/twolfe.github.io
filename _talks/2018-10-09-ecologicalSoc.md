@@ -2,9 +2,9 @@
 title: "Macro and microevolutionary drivers of allopolyploid evolution in Dactylorhiza."
 collection: talks
 type: "Talk"
-permalink: /talks/2018-10-09-ecologicalSoc
+permalink: /talks/2018-09-10-ecologicalSoc
 venue: "48th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland"
-date: 2018-10-09
+date: 2018-09-10
 location: "Vienna, Austria"
 excerpt: "The impact of alloploidy on gene expression in Dactylorhiza."
 ---
