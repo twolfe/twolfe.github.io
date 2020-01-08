@@ -33,4 +33,5 @@ The goal of this blog is to keep you updated on the progress of my work and find
 # Horizontal *Wolbachia* transfers in the invasive *Rhagoletis cingulata* cherry fruit fly
 
 # Fluctuating thermal selection on the central nervous system gene *Ace*
+
 with [sonja lecic](https://twitter.com/klopkica)
