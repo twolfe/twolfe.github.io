@@ -1,6 +1,6 @@
 ---
-title: "Invassive dynamics and Wolbachia horizontal transfers"
-excerpt: "What role do Wolbachia horizontal transfers have in invasivness?"
+title: "Invasive dynamics and Wolbachia horizontal transfers"
+excerpt: "What role do Wolbachia horizontal transfers have in invasiveness?"
 collection: research
 ---
 # Horizontal *Wolbachia* transfers in the invasive *Rhagoletis cingulata* cherry fruit fly
