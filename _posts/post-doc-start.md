@@ -1,7 +1,7 @@
 ---
 title: 'Polaris project - Diversity panel of 150 high-coverage samples'
 date: 2018-11-11
-permalink: /year-archive/post1
+permalink: /posts/2020/01/first
 tags:
   - Polaris project
   - Diversity panel
