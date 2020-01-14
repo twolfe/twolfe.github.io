@@ -1,5 +1,5 @@
 ---
-title: "Invasive dynamics and Wolbachia horizontal transfers"
+title: "Wolbachia and invasion"
 excerpt: "Can Wolbachia horizontal transfers lead to increased invasive potential?"
 collection: research
 ---
