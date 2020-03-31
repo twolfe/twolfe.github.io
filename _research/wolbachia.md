@@ -4,34 +4,8 @@ excerpt: "Can Wolbachia horizontal transfers lead to increased invasive potentia
 collection: research
 ---
 ### Work financed by the Austrian Science Fund (FWF) projects (P30456-B29 and P30957-B29) awarded to [Hannes Schuler](https://sites.google.com/view/hschuler/)
-Endosymbiotic bacteria are ubiquitous in animals, being especially
-abundant in arthropods. They are usually studied in terms of the costs and benefits that they convey to
-their hosts. However,
-endosymbionts and their hosts also provide excellent opportunities to examine the processes of
-colonization and range expansion. Here, we propose to investigate the evolutionary dynamics of the
-early stages of possible bi-directional horizontal transfer of the endosymbiont Wolbachia
-between native and invasive species of cherry-infesting Rhagoletis fruit flies in Europe. The
-system provides a unique chance to study in real time how intra- and inter-trophic level interactions
-between different strains of Wolbachia and their fly hosts may affect the dynamics of their respective
-distributions and spread through Europe.
-The genus Rhagoletis contains over 90 taxa and is comprised of a number of different species groups.
-One well-known group is the R. pomonella sibling species complex in North America. These flies,
-which include the apple and hawthorn host races of the species R. pomonella, are models for
-ecological speciation in the absence of geographic isolation via host plant shifts. The
-focus of the current study is on a related species complex called the R. cingulata group that contains
-four described sibling species that infest different native cherry and olive hosts across N. America
-(Bush 1966; St. Jean et al. in rev.). In particular, we are interested in the species R. cingulata that
-infests native black cherries (Prunus serotina) and is also a pest of domesticated cherries in the eastern
-and southwestern US, and Mexico. Evidence suggests that R. cingulata was introduced into Europe
-~30 years ago, where it now infests cherries with the native European species R. cerasi, that belongs to
-a third species group. The shared habitat of the two flies in cherries appears to have resulted in the
-horizontal transmission of Wolbachia strain wCer1 from R. cerasi to R. cingulata, where it is
-designated wCin1 (Schuler et al. 2013). In addition, a second strain of Wolbachia, wCin2, that is
-present in all R. cingulata populations in N. America, has also been found in certain R. cerasi
-populations in Europe (where it is designated wCer2). Thus, a dynamic interplay is occurring in an
-ecological timeframe between two strains of Wolbachia in two different Rhagoletis hosts in Europe,
-with one bacteria strain and one fly species being native, and the other bacteria strain and fly species
-being introduced and invasive. The goal of this grant is to resolve the evolutionary interplay
-between Wolbachia and Rhagoletis in Europe, and, thus, gain insight into the nature and roles
-2
-that intra- and inter-trophic interactions play in the process of endosymbiont invasion
+
+*Wolbachia* is a ubiquitous and diverse group of endosymbionts found in the reproductive tissues of arthropods and nematodes. This alphaproteobacterium has evolved various means for facilitating its vertical transmission despite detrimental repercussions on its host. These include reproductive manipulations, such as sperm-egg incompatibility, parthenogenesis, feminization, and male-killing. Incongruent results between *Wolbachia* and host phylogenies have implied that the bacteria can also switch horizontally among species. However, examples of horizontal transmission of *Wolbachia* between taxa and the subsequent spread of the bacterium in novel hosts in nature are rare.
+Globalization and climate disruption have allowed many more long-range colonization events by invasive species, which facilitate interactions with co-occurring native species and horizontal *Wolbachia* transfers between them.
+The Eastern cherry fruit fly, *Rhagoletis cingulata*, is a significant economic pest species in North America and has recently been introduced in Europe. Here, it co-infests cherries with the native European cherry fruit fly, *R. cerasi*. This shared habitat has resulted in two independent horizontal transfers of a native *Wolbachia* strain, wCer1, from *R. cerasi* to the invasive *R. cingulata* in Germany and Hungary. Since *Wolbachia* is usually inherited vertically through the maternal germline, our system provides a unique opportunity to resolve the spatial dynamics of directional horizontal *Wolbachia* transfers in natural populations. Our system also allows us to investigate the role of *Wolbachia* infection in invasiveness by comparing measured temporal infection dynamics to expected values under classical *Wolbachia* infection models.
+Using a combination of short-read (Illumina) and long-read (PacBio and Nanopore) sequencing, we first assembled a dozen *Wolbachia* genomes from individuals of the invasive (wCin2 strains) and the native fly species (wCer1 strains). We compared these strains and found that major structural inversions and duplications have resulted in differences in cytoplasmic incompatibility factor genes between the two strains. These genes are essential as they determine the *Wolbachia* spread dynamics through the invasive *R. cingulata* populations. In addition to these two main *Wolbachia* strains, we also found and characterized three minor strains (wCer2, wCer4, and wCer5) in the native *R. cerasi* species. We hypothesize that these strains are involved in substantial local dynamic differences. After comparing the invasive *R. cingulata* regional German and Hungarian strains to North American strains, we found significantly more SNPs in Germany. These results strongly suggest that the German invasion route is older than the Hungarian route. This work paints a picture of a highly dynamic system where *Wolbachia* plays a significant role in the invasive potential of *R. cingulata* in Europe. It also highlights the role of horizontal *Wolbachia* transfers between species as a mechanism for biological novelty.
