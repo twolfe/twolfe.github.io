@@ -33,5 +33,10 @@ var addressPoints = [
     "Montpellier, France | II Joint Congress on Evolutionary Biology (ESEB) | <a href='https://eseb.org/wp-content/uploads/2018/08/2018_Program.pdf'>Evolutionary Biology Conference</a>",
     43.613047,
     3.882193
+  ],
+  [
+    "Klosterneuburg, Austria | IST Evolunch | <a href='https://ist.ac.at/de/news-events/event/?eid=1964'>Invited speaker</a>",
+    48.310469,
+    16.258817
   ]
 ];
